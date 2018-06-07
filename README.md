@@ -1,5 +1,5 @@
 # kredswallet Python API
-Python implementation of [WebWalletAPIClient](https://kredswallet.com/wallet/apidocs#client)
+Python implementation of [WebWalletAPIClient](https://kredswallet.com/wallet/apidocs)
 
 ### Install
 `pip install kredswallet`
