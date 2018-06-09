@@ -1,4 +1,4 @@
-# kredswallet Python API
+# kredswallet Python API [![Build Status](https://travis-ci.org/MustyMouse/kredswallet.svg?branch=master)](https://travis-ci.org/MustyMouse/kredswallet)
 Python implementation of [WebWalletAPIClient](https://kredswallet.com/wallet/apidocs)
 
 ### Install
