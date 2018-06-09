@@ -3,7 +3,7 @@ from setuptools import setup,find_packages
 setup(
 	name = "kredswallet",
 	version = "0.1",
-	install_requires = ["base64","time","requests","hashlib","json"],
+	install_requires = ["requests"],
 	author = "MustyMouse",
 	author_email = "admin@krux.us",
 	description = ("A Python wrapper for the Kredswallet Web API"),
