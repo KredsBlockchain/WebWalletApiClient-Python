@@ -10,6 +10,7 @@ setup(
 	license = "GNU",
 	keywords = "kredswallet python wrapper",
 	url = "https://github.com/MustyMouse/kredswallet",
+	download_url = "https://github.com/MustyMouse/kredswallet/archive/0.1.tar.gz",
 	packages = find_packages(exclude=["docs","tests"]),
 	classifiers = [
 		"Development Status :: 3 - Alpha",
