@@ -1,4 +1,3 @@
-language: 
-	python
+language: python
 script:
-	python -m unittest discover tests
+  python -m unittest discover tests
