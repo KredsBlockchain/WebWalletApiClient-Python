@@ -2,7 +2,9 @@
 Python implementation of [WebWalletAPIClient](https://kredswallet.com/wallet/apidocs)
 
 ### Install
-`pip install kredswallet`
+`pip install kredswallet`  
+
+OR  
 
 ```
 git clone git@github.com:mustymouse/kredswallet
