@@ -9,4 +9,9 @@ git clone git@github.com:mustymouse/kredswallet
 python setup.py
 ```
 
-**DON'T DO THIS YET [NO TESTS]**
+### Use
+```python
+from kredswallet import *
+kreds=KredsAPI(KREDS_API,KREDS_SECRET) # Use environment variable or replace with your key and secret
+print(kreds.status())
+```
