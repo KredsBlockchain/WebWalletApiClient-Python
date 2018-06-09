@@ -2,7 +2,7 @@ from setuptools import setup,find_packages
 
 setup(
 	name = "kredswallet",
-	version = "0.1",
+	version = "0.1a",
 	install_requires = ["requests"],
 	author = "MustyMouse",
 	author_email = "admin@krux.us",
@@ -10,7 +10,7 @@ setup(
 	license = "GNU",
 	keywords = "kredswallet python wrapper",
 	url = "https://github.com/MustyMouse/kredswallet",
-	download_url = "https://github.com/MustyMouse/kredswallet/archive/0.1.tar.gz",
+	download_url = "https://github.com/MustyMouse/kredswallet/archive/0.1a.tar.gz",
 	packages = find_packages(exclude=["docs","tests"]),
 	classifiers = [
 		"Development Status :: 3 - Alpha",
