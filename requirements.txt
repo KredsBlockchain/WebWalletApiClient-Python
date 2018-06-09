@@ -1,4 +1,4 @@
-hashlib==20081119
+hashlib
 unittest
 os
 base64
